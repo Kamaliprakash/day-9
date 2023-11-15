@@ -1,0 +1,73 @@
+HTML Tables:
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tables</title>
+  </head>
+  <table border ="1">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Age</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>kamali</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>mals</td>
+            <td>25</td>
+        </tr>   
+    </tbody>
+  </table>
+</html>
+....>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.....
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tables</title>
+  </head>
+  <body>
+    <table border="1">
+      <caption>
+        Health chart
+      </caption>
+      <tr>
+        <td rowspan="2">State of health</td>
+        <td colspan="2">Fasting value</td>
+        <td>After Eating</td>
+      </tr>
+      <tr>
+        <td>minimum</td>
+        <td>maximum</td>
+        <td>2 Hours After Eating</td>
+      </tr>
+      <tr>
+        <td>Healthy</td>
+        <td>70</td>
+        <td>100</td>
+        <td>Less than 140</td>
+      </tr>
+      <tr>
+        <td>Pre-Diabetes</td>
+        <td>101</td>
+        <td>126</td>
+        <td>140 to 200</td>
+      </tr>
+      <tr>
+        <td>Diabetes</td>
+        <td>More thah 126</td>
+        <td>N/A</td>
+        <td>More than 200</td>
+      </tr>
+    </table>
+  </body>
+</html>
+

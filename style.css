@@ -1,0 +1,20 @@
+body {
+  background-color: paleturquoise;
+}
+table,
+td {
+  text-align: center;
+  background-color: plum;
+  height: 100px;
+  width: 700px;
+  border: 1px solid white;
+  border-collapse: collapse;
+  color: black;
+  margin-left: 450px;
+}
+caption {
+  margin-bottom: 10px;
+  margin-top: 20 px;
+  font-size: x-large;
+  color: white;
+} 
