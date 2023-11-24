@@ -1,3 +1,14 @@
+
+>>. content.>>
+ *HTML Tables
+*What is CSS?
+*ways to use CSS 
+*property & value 
+*class vs id 
+*use of important 
+*display property: inline, block 
+
+
 HTML Tables:
 <!DOCTYPE html>
 <html lang="en">

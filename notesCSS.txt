@@ -1,0 +1,27 @@
+Css:-  
+
+=> Cascading Style sheet.
+
+=> to declore 3 types way 
+ *inline 1st important
+ *internal 2rd important
+ *external 3rd important
+
+ => css / 
+ *trail and error*
+
+ => how it's work 
+ *property:value
+{
+    background:red;
+}
+2 way to apply : 
+*tag: body,heading,Tables
+*class: .classname
+*id: #idname 
+
+=> inline $ block 
+block: div 
+inline: span 
+
+
